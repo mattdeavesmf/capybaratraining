@@ -6,6 +6,8 @@ Before do
   @test_world = TestWorld.new
   @home = HomePage.new
   @results = ResultsPage.new
+  @amazon = AmazonPage.new
+  @amazonresults = AmazonResultsPage.new
 end
 
 After do
